@@ -1,4 +1,6 @@
 //Here we take an array of objects as the quiz data which contains question, 4 answer options and the correct answer
+var a = 2222
+var b =   333
 const quizData = [
   {
     question: "How old did Cristiano Ronaldo turn recently?",
